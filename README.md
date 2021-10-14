@@ -19,5 +19,5 @@
 [Груздев Артем Владимирович, Хейдт Майкл. Изучаем pandas](https://www.ozon.ru/product/izuchaem-pandas-gruzdev-artem-vladimirovich-heydt-maykl-217051180/?asb=RXqk9m9qisifw7T%252FcLtnLmAVgfHiEbeXRaIsYlGYNjQ%253D&asb2=Qv6c7KPgkcW7OW3lbz0IqkopECisE4wmJ1jHLoc5kdI&keywords=pandas&sh=sgwDplx4)
 
 На английском: 
-1.  [Python data science]https://www.ozon.ru/product/python-data-science-after-work-guide-to-start-learning-data-science-on-your-own-avoid-common-214805614/?asb=npSvM37uk1D16iG0cgBYoNhWWHvxqGp8QOqQX6G%252FPvk%253D&asb2=8qU0jYlFMYpZxY987FxNLRLx5pU1ofWS9FbP3gJ-ahM&keywords=pandas&sh=aySa8hFB
+1.  [Python data science]https://www.ozon.ru/product/python-data-science-after-work-guide-to-start-learning-data-science-on-your-own-avoid-common-214805614/?asb=npSvM37uk1D16iG0cgBYoNhWWHvxqGp8QOqQX6G%252FPvk%253D&asb2=8qU0jYlFMYpZxY987FxNLRLx5pU1ofWS9FbP3gJ-ahM&keywords=pandas&sh=aySa8hFB) 
 2.  [Python Data Analytics](https://www.ozon.ru/product/python-data-analytics-the-ultimate-guide-to-get-started-with-data-analysis-using-python-numpy-252315080/?asb=rYkwOVPd1kE5i%252FEzSwOaSUrAKghwNouMfK7b9tzY%252B8o%253D&asb2=KjCefqKhjy_XAL8X_r1ZB26elzYqKIW3_iPqUFsZWbE&keywords=pandas&sh=5PFMqAE6)
