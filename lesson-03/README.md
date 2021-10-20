@@ -8,5 +8,5 @@
 6. Сортировка
 
 
-from plotly.subplots import make_subplots
+from plotly.subplots import make_subplots </br>
 import plotly.graph_objects as go
