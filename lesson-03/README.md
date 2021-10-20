@@ -6,3 +6,7 @@
 4. Series <-> DataFrame
 5. Лямбда
 6. Сортировка
+
+
+from plotly.subplots import make_subplots
+import plotly.graph_objects as go
