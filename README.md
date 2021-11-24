@@ -1,3 +1,8 @@
+## Контрольная работа
+
+[Ссылка](https://classroom.github.com/a/eJnzuUEG)
+
+
 ## Текущее ДЗ (обнолено 17 ноября)
 [Квантильная оценка успеваемости](https://classroom.github.com/a/c91NvxQG)
 
