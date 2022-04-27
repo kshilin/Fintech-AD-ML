@@ -5,4 +5,5 @@
 3. Датасет велосипеды Сиэтла https://data.seattle.gov/Transportation/Fremont-Bridge-Bicycle-Counter/65db-xm6k
 
 
-Домашнее задание. 
+Домашнее задание https://classroom.github.com/a/PzYLLqpH
+
