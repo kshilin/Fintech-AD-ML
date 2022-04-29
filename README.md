@@ -1,4 +1,4 @@
-https://classroom.github.com/a/BpqLMJvg
+Конкурсное задание https://classroom.github.com/a/FK7g_bjA
 
 
 ### Курс 2021 года по анализу данных  перемещен в архив - 2021
