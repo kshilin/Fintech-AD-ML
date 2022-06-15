@@ -1,6 +1,4 @@
-Конкурсное задание https://classroom.github.com/a/FK7g_bjA
-
-Последнее ДЗ здесь https://github.com/kshilin/Fintech-AD-ML/tree/main/lesson-ml-11
+Экзамен https://classroom.github.com/a/NJJ1-COC
 
 ### Курс 2021 года по анализу данных  перемещен в архив - 2021
 
