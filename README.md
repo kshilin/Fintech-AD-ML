@@ -1,19 +1,36 @@
-Экзамен https://classroom.github.com/a/NJJ1-COC
 
-### Курс 2021 года по анализу данных  перемещен в архив - 2021
+## Экзамен
 
-# Курс по машинному обучению для программы Fintech
+https://classroom.github.com/a/CjYh88My
 
-Литература и что можно почитать
+## Последнее домашнее задание
 
-Основное:
-- [Введение в машинное обучение с помощью Python. Руководство для специалистов по работе с данными](https://www.ozon.ru/product/vvedenie-v-mashinnoe-obuchenie-s-pomoshchyu-python-rukovodstvo-dlya-spetsialistov-po-rabote-140891479/?gclid=Cj0KCQjwm9yJBhDTARIsABKIcGYQpWkVvvgHSqLxKZQrHxeiy7tnd4JtJVGMAZVf4qiqFYEd_v_Cij4aAqOREALw_wcB&sh=b6tA4YBT&utm_campaign=RF_Product_Shopping_Books_super&utm_medium=cpc&utm_source=google) есть в библиотеке Академии
+[ссылка на репозиторий](https://classroom.github.com/a/rZJ9C_0M)
+
+## Новый конкурс (распознование PDF)
+
+Подробности на занятиях
+
+[ссылка на репозиторий](https://classroom.github.com/a/ufZUwe7N)
+
+# Репозиторий для студентов программы Fintech РАНХиГС
+
+Репозиторий курсов анализ данных и машинное обучение.
+
+<b>Основная литература (Внимание! только издание 2)</b>
+
+[Маккини Уэс. Python и анализ данных](https://www.ozon.ru/product/python-i-analiz-dannyh-makkini-ues-217051463/?asb=A47WIyTuTrgb7nwko%252BdbbXPLUhtPl1nV34h%252BmVMklfE%253D&asb2=tlgWbg1twcU71fBcFbo4YTRqNS7lSBwpbBsu9qxoPhM&keywords=анализ+данных&sh=Q2aRDmlX)
 
 Дополнительно:
-- если совсем туго и первый семестр прошел мимо, то почитайте [Data Science. Наука о данных с нуля](https://www.ozon.ru/product/data-science-nauka-o-dannyh-s-nulya-gras-dzhoel-gras-dzhoel-341032598/?asb=Yr9WJRG%252FWjBTwsICjzer3%252FmBuoW2Djdx%252FwBDZDxvXkI%253D&asb2=ur6rMX2JJsiq0IxO7kq1ngFxm2djM48c6iR2OBI87g6A_mxqrT3Ks138Xe5j4wRs&keywords=Грас+Джоэл&sh=2BNibQAAAA) Может поможет :)
-- математический минимум, для тех кто хочет узнать больше [Машинное обучение. Наука и искусство построения алгоритмов, которые извлекают знания из данных.](https://www.ozon.ru/product/mashinnoe-obuchenie-nauka-i-iskusstvo-postroeniya-algoritmov-kotorye-izvlekayut-znaniya-iz-217048107/?asb=25p291gGS%252FCtwe%252FjizxZ40KhUIng1%252BGBJ65n1NckUP0%253D&asb2=5otbXtWhS5lFsWrW0EAE3EXSr9oplIybpDq8Xe7cGjA&keywords=Петер+флах&sh=qhGNMon5);
-- фичинг [Feature Engineering for Machine Learning](https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/);
-- про кластеризаю [Прикладное машинное обучение без учителя с использованием Python](https://www.ozon.ru/product/prikladnoe-mashinnoe-obuchenie-bez-uchitelya-s-ispolzovaniem-python-patel-ankur-277453373/?gclid=Cj0KCQjwm9yJBhDTARIsABKIcGYbvMlfmKeCH8EdbjXGJk_SHNtsaNkDzZjNbIYQisYUAN9zKIGCCyIaAihQEALw_wcB&sh=L01CMB1l&utm_campaign=RF_Product_Shopping_Books_normal&utm_medium=cpc&utm_source=google);
-- эту книгу пока не читал, но может пригодится [Практический анализ временных рядов. Прогнозирование со статистикой и машинное обучение](https://www.ozon.ru/product/prakticheskiy-analiz-vremennyh-ryadov-prognozirovanie-so-statistikoy-i-mashinnoe-obuchenie-218051019/?asb=qnkakRXjmh7z1AQ4BUN%252BuuupmdqsUxDRJ%252BKnOHiD9Dc%253D&asb2=QN5qnHzEElP2-vf_aAyQZ5L_UwcEnxQliZAnvdGMLLRzgJbopLT4nn0-8byjOFn3&sh=uIvwe5W3).
 
-Полный курс **настоящей максимально полной математической теории машинного обучения** с видео и конспектами [К.В. Воронцов МФТИ](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29), смотрим и читаем!
+Просто почитать для эрудиции</br>
+[Келлехер Джон Д. Наука о данных. Базовый курс](https://www.ozon.ru/product/nauka-o-dannyh-bazovyy-kurs-kelleher-dzhon-d-231026173/?asb=Xyx9Nf2z3SdZ5CVg8254haw6LvYawsNMYOs41KjQ7jw%253D&asb2=7k5hvMiganuMDhTXXbNSw5ey6CE51Zr5p6pH8wCX1eixUyL3ImGSFNxp7Lzyp2A8&sh=lzq5Iiar)
+
+Альтернатива Уэс Маккини </br>
+[Груздев Артем Владимирович, Хейдт Майкл. Изучаем pandas](https://www.ozon.ru/product/izuchaem-pandas-gruzdev-artem-vladimirovich-heydt-maykl-217051180/?asb=RXqk9m9qisifw7T%252FcLtnLmAVgfHiEbeXRaIsYlGYNjQ%253D&asb2=Qv6c7KPgkcW7OW3lbz0IqkopECisE4wmJ1jHLoc5kdI&keywords=pandas&sh=sgwDplx4)
+
+На английском: 
+1.  [Python data science](https://www.ozon.ru/product/python-data-science-after-work-guide-to-start-learning-data-science-on-your-own-avoid-common-214805614/?asb=npSvM37uk1D16iG0cgBYoNhWWHvxqGp8QOqQX6G%252FPvk%253D&asb2=8qU0jYlFMYpZxY987FxNLRLx5pU1ofWS9FbP3gJ-ahM&keywords=pandas&sh=aySa8hFB) 
+2.  [Python Data Analytics](https://www.ozon.ru/product/python-data-analytics-the-ultimate-guide-to-get-started-with-data-analysis-using-python-numpy-252315080/?asb=rYkwOVPd1kE5i%252FEzSwOaSUrAKghwNouMfK7b9tzY%252B8o%253D&asb2=KjCefqKhjy_XAL8X_r1ZB26elzYqKIW3_iPqUFsZWbE&keywords=pandas&sh=5PFMqAE6)
+3. [Python for Finance](https://www.amazon.com/Python-Finance-Mastering-Data-Driven-ebook/dp/B07L8NMW2P/ref=zg_bs_6361574011_47?_encoding=UTF8&psc=1&refRID=WZDHFSZ5EYRTZQS6C8M5)
+4. [Pandas for Everyone: Python Data Analysis](https://www.amazon.com/Pandas-Everyone-Analysis-Addison-Wesley-Analytics-ebook/dp/B0789WKTKJ)
