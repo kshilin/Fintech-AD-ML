@@ -1,18 +1,3 @@
-
-## Экзамен
-
-https://classroom.github.com/a/CjYh88My
-
-## Последнее домашнее задание
-
-[ссылка на репозиторий](https://classroom.github.com/a/rZJ9C_0M)
-
-## Новый конкурс (распознование PDF)
-
-Подробности на занятиях
-
-[ссылка на репозиторий](https://classroom.github.com/a/ufZUwe7N)
-
 # Репозиторий для студентов программы Fintech РАНХиГС
 
 Репозиторий курсов анализ данных и машинное обучение.
@@ -34,3 +19,6 @@ https://classroom.github.com/a/CjYh88My
 2.  [Python Data Analytics](https://www.ozon.ru/product/python-data-analytics-the-ultimate-guide-to-get-started-with-data-analysis-using-python-numpy-252315080/?asb=rYkwOVPd1kE5i%252FEzSwOaSUrAKghwNouMfK7b9tzY%252B8o%253D&asb2=KjCefqKhjy_XAL8X_r1ZB26elzYqKIW3_iPqUFsZWbE&keywords=pandas&sh=5PFMqAE6)
 3. [Python for Finance](https://www.amazon.com/Python-Finance-Mastering-Data-Driven-ebook/dp/B07L8NMW2P/ref=zg_bs_6361574011_47?_encoding=UTF8&psc=1&refRID=WZDHFSZ5EYRTZQS6C8M5)
 4. [Pandas for Everyone: Python Data Analysis](https://www.amazon.com/Pandas-Everyone-Analysis-Addison-Wesley-Analytics-ebook/dp/B0789WKTKJ)
+
+
+##  Сервис [скачать папку с Git ...](https://minhaskamal.github.io/DownGit/#/home)
