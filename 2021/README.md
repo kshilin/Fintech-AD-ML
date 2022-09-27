@@ -1,7 +1,7 @@
 
 ## Экзамен
 
-https://classroom.github.com/a/rCTM2mGb
+https://classroom.github.com/a/CjYh88My
 
 ## Последнее домашнее задание
 
