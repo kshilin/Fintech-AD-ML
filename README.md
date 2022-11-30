@@ -1,4 +1,4 @@
->**Warning**  Домашнее задание ["случайные связи"](https://classroom.github.com/a/OPkhi1OH) срок до Nov 29, 2022, 23:00
+https://classroom.github.com/a/8A4k0D7t
 
 
 # Репозиторий для студентов программы Fintech РАНХиГС
