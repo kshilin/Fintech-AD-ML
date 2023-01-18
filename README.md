@@ -1,4 +1,4 @@
-### ДЗ робот (Due Dec 28, 2022, 23:00) https://classroom.github.com/a/i3X_wa-z
+### Экзамен https://classroom.github.com/a/YN7U1-2w
 
 
 # Репозиторий для студентов программы Fintech РАНХиГС
