@@ -1,3 +1,6 @@
+
+[КОНТРОЛЬНАЯ РАБОТА](https://classroom.github.com/a/DPIZeq7D)
+
 [Последнее ДЗ по регрессии](https://classroom.github.com/a/M9BPPP6V)
 
 
